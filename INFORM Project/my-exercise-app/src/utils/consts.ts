@@ -1,0 +1,1 @@
+export const BREWERIES_GET_URL: string = 'https://api.openbrewerydb.org/breweries';
